@@ -13,7 +13,7 @@ var peers = []
 
 const udpServerPort:int = 8888
 
-const udpDestAddress:String = "192.168.5.10"
+const udpDestAddress:String = "192.168.1.10"
 const udpDestPort:int = 9999
 
 class SteerSettings:
